@@ -47,7 +47,7 @@
 				<li><a href="http://www.facebook.com/babyalpacalove" target="_blank" title="Baby Alpaca on Facebook"><img src="https://dl.dropbox.com/u/3061181/fb.png"/></a></li>
 				<li><a href="https://soundcloud.com/babyalpaca" target="_blank" title="Baby Alpaca on Soundcloud"><img src="https://dl.dropbox.com/u/3061181/soundcloud.png"/></a></li>
 				<li><a href="https://twitter.com/babyalpacalove" target="_blank" title="Baby Alpaca on Twitter"><img src="https://dl.dropbox.com/u/3061181/twitter.png"/></a></li>
-				<li><a href="http://vimeo.com/20819533" target="_blank" title="Baby Alpaca on Vimeo"><img src="https://dl.dropbox.com/u/3061181/vimeo.png"/></a></li>
+				<li><a href="http://vimeo.com/user17981938" target="_blank" title="Baby Alpaca on Vimeo"><img src="https://dl.dropbox.com/u/3061181/vimeo.png"/></a></li>
 				<li><a href="http://www.youtube.com/user/babyalpacalove" target="_blank" title="Baby Alpaca on Youtube"><img src="https://dl.dropbox.com/u/3061181/youtube.png"/></a></li>
 				<li><a href="http://instagram.com/babyalpaca" target="_blank" title="Baby Alpaca on Instagram"><img src="https://dl.dropbox.com/u/3061181/instagram.png"/></a></li>
 			</ul>

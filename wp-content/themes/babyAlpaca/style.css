@@ -193,3 +193,27 @@ color:rgba(255,255,255,0.5) !important;
 
 
 #footer {display:none;}
+
+@media (max-width: 450px){
+#content{
+margin: 5px;
+width: 80%;
+height: 70%;
+overflow: auto;
+}
+
+#header{
+margin: 0;
+height: 100px;
+}
+
+#nav{
+float: left;
+width: 180px;
+}
+
+#nav li{
+padding: 0 2px 0 0;
+line-height: 2px;
+}
+}
